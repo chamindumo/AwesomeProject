@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397470845673",
+    "firebase_url": "https://kiwisuit-a01b0-default-rtdb.firebaseio.com",
+    "project_id": "kiwisuit-a01b0",
+    "storage_bucket": "kiwisuit-a01b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397470845673:android:1616e27f748ca2d5abbe78",
+        "android_client_info": {
+          "package_name": "Kiwisuit.andoid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397470845673-6lciahetdin9mt1470k0kc301a2snfvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJPOpjiF-eTpW6v1uta-BfILE5m5TdCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397470845673-4an7438v6h5jeodr9387sck8hbu4jo1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
